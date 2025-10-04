@@ -1,0 +1,53 @@
+# Arduino IDE files
+*.ino.eep
+*.ino.elf
+*.ino.hex
+
+# Build output
+build/
+*.o
+*.a
+*.so
+
+# Libraries (if using library manager)
+libraries/
+!libraries/readme.txt
+
+# IDE preferences and settings
+preferences.txt
+*.prefs
+
+# Sketches backup
+*~
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Temporary files
+*.swp
+*.swo
+*~
